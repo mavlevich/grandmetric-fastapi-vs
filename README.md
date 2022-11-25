@@ -27,8 +27,11 @@ W odpowiedzi zwrotnej (HTTP 200) powinniśmy otrzymać body:<br>
   <li>Zainstaluj Requests https://requests.readthedocs.io/en/latest/user/install/#install</li>
 </ul>
 
-<h1>Wykorzystanie / licencja</h1>
+<h1>4. Wykorzystanie / licencja</h1>
 Ten projekt nie zawiera żadnych licencji ani praw autorskich, być może ten projekt będzie dobrym przykładem. 
+
+<h1>5. Kontakt </h1>
+mavlevichx@gmail.com
 
 
 
