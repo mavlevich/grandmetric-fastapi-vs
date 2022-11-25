@@ -8,12 +8,12 @@ Ten projekt jest wykonany jako testowe zlecenie dla Grandmetric na stanowisko ba
   <li>GET `/status`, który odpowiada kodem HTTP 200 i wiadomością "ok"</li>
   <li>POST `/day`, który przyjmuje payload w formie JSON `{"date": "28.10.2022"}`</li>
 </ul>
-W odpowiedzi zwrotnej (HTTP 200) powinniśmy otrzymać body:
-{
-      "28": "28 is the second perfect number.",
-      "10": "10 is a composite number, its proper divisors being 1, 2 and 5.",
-      "2022": "2022 is an uninteresting number."
-}
+W odpowiedzi zwrotnej (HTTP 200) powinniśmy otrzymać body:<br>
+{ <br>
+      "28": "28 is the second perfect number.", <br>
+      "10": "10 is a composite number, its proper divisors being 1, 2 and 5.", <br>
+      "2022": "2022 is an uninteresting number." <br>
+} <br>
 
 <h1>3. Jak używać</h1>
 <ul>
