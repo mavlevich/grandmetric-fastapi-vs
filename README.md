@@ -15,7 +15,7 @@ W odpowiedzi zwrotnej (HTTP 200) powinniśmy otrzymać body:<br>
       "2022": "2022 is an uninteresting number." <br>
 } <br>
 
-<h1>3. Jak używać</h1>
+<h1>3. Jak używać / sprawdzić</h1>
 <ul>
   <li>Ściągnij projekt</li>
   <li>Zainstaluj Python https://www.python.org/downloads/</li>
@@ -25,6 +25,11 @@ W odpowiedzi zwrotnej (HTTP 200) powinniśmy otrzymać body:<br>
   <li>Zainstaluj Uvicorn https://www.uvicorn.org/#quickstart</li>
   <li>Zainstaluj Requests https://requests.readthedocs.io/en/latest/user/install/#install</li>
 </ul>
+
+<h1>Wykorzystanie / licencja</h1>
+Ten projekt nie zawiera żadnych licencji ani praw autorskich, być może ten projekt będzie dobrym przykładem. 
+
+
 
 
 
