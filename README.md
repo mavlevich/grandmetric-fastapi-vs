@@ -25,6 +25,7 @@ W odpowiedzi zwrotnej (HTTP 200) powinniśmy otrzymać body:<br>
   <li>Zainstaluj Pydantic https://pydantic-docs.helpmanual.io/install/</li>
   <li>Zainstaluj Uvicorn https://www.uvicorn.org/#quickstart</li>
   <li>Zainstaluj Requests https://requests.readthedocs.io/en/latest/user/install/#install</li>
+  <li>W terminale wpisz i zatwierdz polecenie "uvicorn main:app"</li>
 </ul>
 
 <h1>4. Wykorzystanie / licencja</h1>
